@@ -1,9 +1,9 @@
 ﻿
 $prefix = "..\Source\" # Prefix if needed, i.e. c:\path_to_start or ..\Dir\
 param(
-    [string]$rootDirectory = "C:\path",
-    [string]$startFrom = "C:\path", # part of path to cut off from output and replace with prefix
-    [string]$outputFile = "C:\path\uvis-dirs.txt",
+    [string]$rootDirectory = "C:\CodeX\Marlin\Masters\Kobra_Go-master",
+    [string]$startFrom = "C:\CodeX\Marlin\Masters\Kobra_Go-master", # part of path to cut off from output and replace with prefix
+    [string]$outputFile = "C:\CodeX\Marlin\Masters\Kobra_Go-master\uvis-dirs.txt",
     [string[]]$ignoreDirs = @() # Directories to ignore "c:\maindir\subdir,c:\maindir\anotherdir"
 )
 

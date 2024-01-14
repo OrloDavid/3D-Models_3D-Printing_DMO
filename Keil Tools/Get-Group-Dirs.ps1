@@ -1,6 +1,6 @@
 ﻿
-$rootDirectory = "C:\path"
-$outputfile = "C:\path\group-dirs.txt"
+$rootDirectory = "C:\CodeX\Marlin\Masters\Kobra_Go-master"
+$outputfile = "C:\CodeX\Marlin\Masters\Kobra_Go-master\group-dirs.txt"
 
 
 function Format-DirectoryName {
