@@ -9,6 +9,8 @@ This repository contains a variety of files, pictures, and information related t
 - **Klipper**: Features my current Anycubic Kobra Go config file. I'll also include additional files and information as I update and enhance my setup.
 - **Notepad NPP UDLs**: UDLs (User Defined Languages) that I created for unique code languages, including Marlin and a hybrid PowerShell/Cisco IOS environment, which were essential for my full-time job at the time.
 
+Please check my list of Repo's if you are looking for something specific [here](https://github.com/OrloDavid).
+
 I plan to create instructional posts and share them under my account on Reddit, which can be found [here](https://www.reddit.com/user/Azyn_One/submitted/).
 
 Additionally, I'll be uploading videos to my YouTube channel, accessible [here](https://www.youtube.com/@DavidMiOo).
