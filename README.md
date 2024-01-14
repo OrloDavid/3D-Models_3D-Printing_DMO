@@ -9,10 +9,28 @@ This repository contains a variety of files, pictures, and information related t
 - **Klipper**: Features my current Anycubic Kobra Go config file. I'll also include additional files and information as I update and enhance my setup.
 - **Notepad NPP UDLs**: UDLs (User Defined Languages) that I created for unique code languages, including Marlin and a hybrid PowerShell/Cisco IOS environment, which were essential for my full-time job at the time.
 
-Please check my list of Repo's if you are looking for something specific [here](https://github.com/OrloDavid).
 
-I plan to create instructional posts and share them under my account on Reddit, which can be found [here](https://www.reddit.com/user/Azyn_One/submitted/).
 
-Additionally, I'll be uploading videos to my YouTube channel, accessible [here](https://www.youtube.com/@DavidMiOo).
+# **This repositiory was created as a catchall for general 3D printing related content by David Orlo**
+- Additional repositories, files, mods and piectures For the Go / Neo can be found at the following links
+
+- - **Firmware Repository for Kobra Go / Neo**
+  - [Kobra Go / Neo Marlin Firmware](https://github.com/OrloDavid/Kobra_Go_Neo_Marlin_Firmware)
+
+- **Everything Else 3D Printing Related by David Orlo**
+  - [Orlo 3D Printer Stuff on GitHub](https://github.com/OrloDavid/Orlo_3D_Printer_Stuff)
+
+- **David Orlo's Reddit Account (For Instructions/Guides)**
+  - [Azyn_One on Reddit](https://www.reddit.com/user/Azyn_One/submitted/)
+
+- **David Orlo's YouTube Channel**
+  - [David Orlo on YouTube](https://www.youtube.com/@DavidMiOo)
+
+- **David Orlo's 3D Files on Tinkercad, Thingiverse, and Printables**
+  - [Tinkercad (Login Required)](https://www.tinkercad.com/users/0RxhGZwzXXM-david-m-orlo)
+  - [Thingiverse Designs](https://www.thingiverse.com/a_makers_life/designs)
+  - [Printables Profile](https://www.printables.com/@DavidmOrlo_1689053)
+
+
 
 Thank you for stopping by!
