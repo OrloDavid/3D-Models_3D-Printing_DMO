@@ -1,14 +1,16 @@
+# David Orlo 3D Printer Stuff Repository
 
-+ **Mainboard Support Repository Coming Soon**
-+ **Mainboard Support Repository Coming Soon**
+This repository contains a variety of files, pictures, and information related to the 3D printing work I've done.
 
+## What You Will Find Here
 
-![IMG_20231028_121012~2](https://github.com/OrloDavid/HC32F460/assets/26681128/10efe4d5-6fd4-45b3-940a-48c4be518b40)
+- **Anycubic Kobra Go**: Includes mainboard pictures, modifications, and printer-specific information.
+- **Keil Tools**: Custom scripts I've written to assist with setting up new projects in Keil, particularly designed with Marlin in mind.
+- **Klipper**: Features my current Anycubic Kobra Go config file. I'll also include additional files and information as I update and enhance my setup.
+- **Notepad NPP UDLs**: UDLs (User Defined Languages) that I created for unique code languages, including Marlin and a hybrid PowerShell/Cisco IOS environment, which were essential for my full-time job at the time.
 
+I plan to create instructional posts and share them under my account on Reddit, which can be found [here](https://www.reddit.com/user/Azyn_One/submitted/).
 
-![IMG_20231028_122144~2](https://github.com/OrloDavid/HC32F460/assets/26681128/58b7033b-8371-44a7-a027-3a85ab863fb2)
+Additionally, I'll be uploading videos to my YouTube channel, accessible [here](https://www.youtube.com/@DavidMiOo).
 
-
-![IMG_20231028_122159~3](https://github.com/OrloDavid/HC32F460/assets/26681128/e2756015-ebfa-4307-98e2-fd1455e7de08)
-
-![IMG_20231028_115926](https://github.com/OrloDavid/HC32F460/assets/26681128/a360fc92-a8c8-446e-a616-2429c08a67b8)
+Thank you for stopping by!
